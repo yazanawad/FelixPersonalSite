@@ -10,7 +10,7 @@ const checkIfBirthday = () => {
     today.getMonth() == felixBirthday.getMonth() &&
     today.getDate() == felixBirthday.getDate()
   ) {
-    alert("TODAY IS FELIX's BIRTHDAY!!!");
+    alert("TODAY IS FELIX'S BIRTHDAY!!!");
   }
 };
 
